@@ -1,1 +1,1 @@
-stage guardado en relase
+stage en la rama master y release
